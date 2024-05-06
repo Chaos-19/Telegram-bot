@@ -14,8 +14,6 @@ type Job = {
 }
 
 export const insertData = async (data: Job[]) => {
-    console.log(data);
-
     try {
         data.forEach(async (job) => {
 
@@ -24,10 +22,8 @@ export const insertData = async (data: Job[]) => {
                 .select()
                 .eq('title', job?.title)
 
-            console.log(foundJob);
 
-
-            if (!(data.length > 0)) {
+            if (foundJob?.length as number <= 0) {
                 const { error } = await supabase
                     .from('job-tg-bot')
                     .insert([{
@@ -38,7 +34,7 @@ export const insertData = async (data: Job[]) => {
                     console.log(error);
                 }
             } else {
-                console.log("Data already exists", foundJob);
+                console.log("Data already exists");
             }
         })
 
