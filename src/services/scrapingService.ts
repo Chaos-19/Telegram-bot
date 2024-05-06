@@ -40,16 +40,20 @@ export const scrape = async (url: string, filterOption: string[], howManyJobs: n
         "button[class='text-center text-small text-primary']"
     );
     seeMoreBtn.forEach(async (el: any) => {
-        await el.click();
+        await el.evaluate((b: any) => b.click());
+        //await el.click();
     });
 
-    //   await new Promise((resolve) => setTimeout(resolve, 1000));
+
+
+    //await new Promise((resolve) => setTimeout(resolve, 1000));
 
     filterOption.forEach(async (option) => {
         const filterBox = await page.waitForSelector(
             `input[value="${option}"]`
         );
-        await filterBox.click();
+        await filterBox.evaluate((b: any) => b.click());
+        //await filterBox.click();
     });
 
     await new Promise((resolve) => setTimeout(resolve, 2000));
@@ -62,13 +66,15 @@ export const scrape = async (url: string, filterOption: string[], howManyJobs: n
         'button[class="bg-primary my-4 text-sm text-white px-4 py-1 rounded disabled:bg-gray-200"]'
     );
 
-    await filterBtn.click();
+    await filterBtn.evaluate((b: any) => b.click());
+    //await filterBtn.click();
 
     await new Promise((resolve) => setTimeout(resolve, 2000));
 
     const loadMoreBtn = await page.waitForSelector("span ::-p-text(Load More Jobs)");
 
-    await loadMoreBtn.click();
+    loadMoreBtn.evaluate((b: any) => b.click());
+    //await loadMoreBtn.click();
 
     await new Promise((resolve) => setTimeout(resolve, 1000));
 
