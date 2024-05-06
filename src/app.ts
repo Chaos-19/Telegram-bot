@@ -20,7 +20,7 @@ app.get("/", (req: Request, res: Response) => {
 
 // Schedule the cron job (adjust the cron expression to your desired frequency)
 cron.schedule('*/5 * * * *', async () => { // Every 15 minutes
-  const data = await scrape('https://afriworket.com/job', ['PAID_INTERN', 'UNPAID_INTERN'], Math.random() * 10);
+  const data = await scrape('https://afriworket.com/job', ['Information technology', 'Software design and Development'], Math.random() * 10);
 
   insertData(data);
 
