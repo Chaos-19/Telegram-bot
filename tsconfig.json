@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "es5"], // Add "dom" for browser DOM types
+    "target": "es5", // Set the target ECMAScript version (adjust if needed)
+    "module": "commonjs", // Module system (commonjs for Node.js)
+    "strict": true, // Enable strict mode for better type checking
+    "allowJs": true, // Allow compiling JavaScript files alongside TypeScript
+    "outDir": "dist", // Output directory for compiled JavaScript files (optional)
+    "esModuleInterop": true // Allow usage of modern ES modules with commonjs
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "compile": "npx tsc --watch",
+  "start": "ts-node src/app.ts"
+}
