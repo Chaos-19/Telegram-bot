@@ -12,4 +12,4 @@ COPY . .
 RUN npm run build
 WORKDIR /dist
 
-CMD node app.js
+CMD node src/app.js
