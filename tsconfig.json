@@ -5,6 +5,7 @@
     "module": "commonjs", // Module system (commonjs for Node.js)
     "strict": true, // Enable strict mode for better type checking
     "allowJs": true, // Allow compiling JavaScript files alongside TypeScript
+    "rootDir": ".", // Root directory for TypeScript files
     "outDir": "dist", // Output directory for compiled JavaScript files (optional)
     "esModuleInterop": true // Allow usage of modern ES modules with commonjs
   }

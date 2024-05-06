@@ -8,4 +8,8 @@ WORKDIR /usr/src/app
 COPY package*.json ./
 RUN npm ci
 COPY . .
-CMD ["npx","tsc" ,"node", "dist/app.js" ]
+
+RUN npm run build
+COPY .env ./dist/
+
+CMD ["node", "dist/app.js" ]
