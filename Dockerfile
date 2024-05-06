@@ -10,6 +10,5 @@ RUN npm ci
 COPY . .
 
 RUN npm run build
-COPY .env ./dist/
 
 CMD ["node", "dist/app.js" ]
