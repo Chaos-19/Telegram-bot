@@ -10,5 +10,6 @@ RUN npm ci
 COPY . .
 
 RUN npm run build
+WORKDIR /dist
 
-CMD ["node", "dist/app.js" ]
+CMD node app.js
