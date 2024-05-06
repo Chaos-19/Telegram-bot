@@ -12,6 +12,9 @@ puppeteer.use(stealthPlugin());
 
 export const scrape = async (url: string, filterOption: string[], howManyJobs: number) => {
 
+    console.log(url, filterOption, howManyJobs);
+
+
     const browser = await puppeteer.launch({
         args: [
             "--disable-setuid-sandbox",
@@ -76,11 +79,9 @@ export const scrape = async (url: string, filterOption: string[], howManyJobs: n
         return document.body.innerHTML;
     });
 
-    await page.screenshot({ path: "src/services/afriworket" + howManyJobs + ".png", fullPage: true });
-
     const jobs = await parseAfriworketJobs(html);
 
-    fs.writeFileSync(path.join(__dirname, "data", "afriworket" + howManyJobs + ".json"), JSON.stringify(jobs));
+    console.log("done");
 
     await browser.close();
 
@@ -182,8 +183,6 @@ async function parseAfriworketJobs(html: any) {
             company,
         });
     });
-
-    fs.writeFileSync("jobs.json", JSON.stringify(jobsList));
 
     return jobsList;
 }

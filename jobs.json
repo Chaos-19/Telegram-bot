@@ -1,13 +1,145 @@
 [
   {
-    "title": "Administrative Assistant Intern",
-    "description": "Main Role and Responsibilities: As a Remote Administrative Assistant Intern, you will play a pivotal role in supporting the administrative functions of our firm. Your primary responsibilities will include: • Coordinating with team members to collect necessary paperwork. • Sending reminders to team members about important deadlines, meetings, and asks. • Compiling and organizing administrative files, including payroll, expense reports, and client records. • Drafting and editing emails, memos, and other correspondence for internal and external stakeholders. • Communicating with suppliers and vendors to address inquiries, place orders, and resolve issues. • Providing general administrative support and assisting with ad hoc projects as assigned. Required Skills: • Strong organizational skills with the ability to prioritize tasks effectively. • Excellent written and verbal communication skills. • Proficiency in Microsoft Office Suite and Canva • Detail-oriented with a high level of accuracy. • Ability to work independently and take initiative. • Minimum diploma in office administration, secretarial services, business, human resource management, or related field Preferred Qualifications: • Prior experience in an administrative role or internship is preferred • Ability to adapt to new technology and software platforms quickly. Perks and Benefits: • Gain valuable hands-on experience in the advisory services industry. • Flexible work arrangement. • Mentorship and guidance from experienced professionals in the field. • Opportunity for growth and advancement within the firm. ...more",
-    "skillrequirements": "Advisory and Consultancy",
-    "jobType": "Onsite - Unpaid Intern",
-    "experienceLevel": "ENTRY Experience Level",
-    "deadline": "Deadline: May 16, 2024",
+    "title": "Software Sales Representative",
+    "description": "Codesphere innovations is a leading provider of innovative software solutions tailored to meet the diverse needs of businesses worldwide. Our cutting-edge products empower organizations to streamline operations, enhance productivity, and achieve their strategic goals. We are committed to delivering exceptional value and customer satisfaction throug our comprehensive software offerings. We are seeking a dynamic and results-driven Software Sales Representative to join our team. The successful candidate will be responsible for driving software sales revenue through proactive prospecting, lead qualification, and closing opportunities. As a key member of our sales team, you will cultivate relationships with prospective clients, understand their unique business challenges, and effectively articulate the value proposition of our software solutions. Responsibilities: • Prospect and generate new leads through cold calling, networking, and other sales techniques. • Qualify leads and opportunities to determine their fit with our software solutions. • Conduct product demonstrations and presentations to showcase the features and benefits of our software offerings. • Develop and maintain strong relationships with clients to ensure customer satisfaction and loyalty. • Collaborate with internal teams, including marketing and product development, to support sales initiatives and enhance product offerings. • Meet or exceed sales targets and performance metrics on a consistent basis. ` To apply https://t.me/yohannea ...more",
+    "skillrequirements": "Software design and Development",
+    "jobType": "Onsite - Full Time",
+    "experienceLevel": "INTERMEDIATE Experience Level",
+    "deadline": "Deadline: June 01, 2024",
     "location": "Addis Ababa, Ethiopia",
-    "sector": "Advisory and Consultancy",
+    "sector": "Software design and Development",
+    "company": "codesphere innovations"
+  },
+  {
+    "title": "Web designer and LMS program updater",
+    "description": "Description: (Design, layout the new website, updating existing website and LMS program) • Updating of an existing website. • Design, layout the new website. o Highly recommended with word press because the designer expecting delivers more than 10 projects per month. • We have Finished (completed) LMS program. Updating, managing and upload the courses. o The goal of a learning management system (LMS) is to provide training and development for learners to Learning and Development (L&D) departments. User, administrator, group administrator, and instructor are examples of distinguishable positions. User: All students who are added to the LMS are automatically given the position of user. o Administration, documentation, tracking, reporting, automation, and delivery of educational courses, training programs, materials or learning and development programs Responsibilities: • Writing and reviewing code for sites, typically HTML, XML, or JavaScript. • Integrating multimedia content onto a site. • Troubleshooting problems with performance or user experience. • Designing engaging and responsive landing pages • Integrating client CMS programs and data feeds into websites • Optimizing sites for maximum speed and scalability • Employing industry and design best practice through website build process • Conducting website testing • Liaising with back-end developers to ensure web and app logic is properly integrated • Ensuring website function and stability across devices i.e., desktop, mobile, tablet • Working with marketing and research teams to incorporate brand elements and relevant market research findings into website • Providing internal support and external customer service throughout the build and launch process of the website. How to apply: Interested applicants fulfilling the above requirements are invited to submit their CV via Telegram @Superboostup Address: - Kasanches, besides Bahirdar hotel Phone: 0914 949494 / 0908 222223 ...more",
+    "skillrequirements": "Software design and Development",
+    "jobType": "Onsite - Full Time",
+    "experienceLevel": "INTERMEDIATE Experience Level",
+    "deadline": "Deadline: May 20, 2024",
+    "location": "Addis Ababa, Ethiopia",
+    "sector": "Software design and Development",
+    "company": "Super boostup"
+  },
+  {
+    "title": "Senior full stack developer",
+    "description": "Roles & Responsibilities: ⁃ Develop, customize, and maintain Umbraco-based [optional] web applications, ensuring high performance, security, and scalability. ⁃ Collaborate with cross-functional teams to gather and analyze requirements, and translate them into technical specifications and solutions. ⁃ Design and implement frontend components and user interfaces using modern JavaScript frameworks such as ReactJS. ⁃ Work closely with UI/UX designers to ensure seamless integration of design concepts into functional frontend applications. ⁃ Optimize application performance and user experience through continuous testing, debugging, and performance tuning. ⁃ Implement best practices for code quality, maintainability, and scalability, following industry standards and guidelines. ⁃ Stay updated on the latest trends and advancements in Umbraco, .NET, and frontend development, and proactively integrate new technologies and techniques into projects. ⁃ Mentor junior developers, providing guidance and support to foster their professional growth and development. Qualifications: ⁃ Minimum of 2 years of professional experience in .NET development, [with a focus on Umbraco CMS would be preferred] ⁃ Strong proficiency in frontend technologies, including JavaScript, HTML5, CSS3, and modern JavaScript frameworks (e.g., ReactJS). ⁃ Solid understanding of web development principles, design patterns, and best practices. ⁃ Experience working in an Agile development environment, with a strong emphasis on collaboration and iterative development. ⁃ Excellent problem-solving skills and attention to detail. ⁃ Strong communication and interpersonal skills, with the ability to effectively collaborate with cross-functional teams. Preferred Qualifications: ⁃ Umbraco certification(s) is a plus. ⁃ Experience with other frontend frameworks such as Angular is a plus. ⁃ Knowledge of backend technologies such as C#, ASP.NET MVC, Web API. ⁃ Experience with version control systems, preferably Git. ⁃ Contributions to open-source projects or active involvement in the developer community. ...more",
+    "skillrequirements": "Software design and Development",
+    "jobType": "Onsite - Full Time",
+    "experienceLevel": "SENIOR Experience Level",
+    "deadline": "Deadline: June 02, 2024",
+    "location": "Addis Ababa, Ethiopia",
+    "sector": "Software design and Development",
+    "company": "Private Client"
+  },
+  {
+    "title": "Laravel Developer",
+    "description": "As a Fullstack Developer at Empire Technological Solution you'll build fully-fledged SaaS platforms using a range of different technologies. You'll be involved in the entire product development lifecycle including the design, development, deployment and maintenance of new and existing features. You'll write clean and functional code on the front-en and back-end. You'll collaborate closely with our development team to ensure system consistency and to create a great user experience. You'll write reusable and maintainable code. You'll optimize web app design for mobile for maximum speed. You'll also perform UI tests to optimize performance. Ultimately, your work will have direct impact on the stability and user experience of our products. You will have a 20,000 birr gross salary compensation About the candidate • You're comfortable working with both front- and back-end languages. • You will work full time on your daily and weekly tasks • You have knowledge of multiple back-end languages/frame-work (like PHP, Laravel, Livewire, Filament). • You have knowledge of multiple front-end languages and libraries (like HTML, CSS, JavaScript Specially Tailwind). • You're familiar with databases (like MySQL and MongoDB), web servers (e.g., Apache) • You have experience with testing and debugging. • Experience with using GIT • Experience in the field ° Bachelors degree in Computer Science or Software Engineering Candidates will be asked to do a test project #Please donot apply if you are not committed, experienced and responsible ...more",
+    "skillrequirements": "Software design and Development",
+    "jobType": "Onsite - Full Time",
+    "experienceLevel": "SENIOR Experience Level",
+    "deadline": "Deadline: May 07, 2024",
+    "location": "Addis Ababa, Ethiopia",
+    "sector": "Software design and Development",
+    "company": "Empire technological solutions"
+  },
+  {
+    "title": "Front End Developer",
+    "description": "Job Description: Front-End Developer Develop and implement user interfaces for websites and web applications. Collaborate with designers and back-end developers to translate design mockups and wireframes into interactive web pages. Ensure cross-browser and cross-device compatibility and optimize web pages for maximum speed and scalability. Conduct horough testing and debugging to ensure a seamless user experience. Collaborate with the back-end development team to integrate front-end code with server-side logic. Stay up-to-date with the latest front-end trends, techniques, and technologies. Troubleshoot and resolve front-end issues and bugs. Collaborate with the UX/UI team to optimize user experiences and interface designs. Continuously improve and enhance existing websites and applications. Skills and Qualifications: Experience with front-end frameworks such as React, Angular, or Vue.js. Strong understanding of responsive web design principles. Familiarity with version control systems such as Git. Knowledge of front-end build tools like Webpack, Gulp, or Grunt. Experience with testing and debugging tools. Understanding of SEO principles and best practices. Good problem-solving and analytical skills. Attention to detail and a strong commitment to delivering high-quality work. Effective communication and collaboration skills. ...more",
+    "skillrequirements": "Software design and Development",
+    "jobType": "Onsite - Full Time",
+    "experienceLevel": "SENIOR Experience Level",
+    "deadline": "Deadline: May 08, 2024",
+    "location": "Addis Ababa, Ethiopia",
+    "sector": "Software design and Development",
+    "company": "Private Client"
+  },
+  {
+    "title": "IT Project Manager",
+    "description": "-Plan activities and tasks -Review weekly and daily progress of projects -Understand client requirements clearly -test system according to client requirements -prepare training manual and related documents -prepare SRS SDD documents -prepare presentation for different meetings -meetings with clients -compile minutes of meetings and send email -stick to project plan and revise if agreed with client -preparation of other documents with quality -other tasks as assigned by immediate supervisor ...more",
+    "skillrequirements": "Software design and Development",
+    "jobType": "Onsite - Full Time",
+    "experienceLevel": "INTERMEDIATE Experience Level",
+    "deadline": "Deadline: May 17, 2024",
+    "location": "Addis Ababa, Ethiopia",
+    "sector": "Software design and Development",
+    "company": "XOKA IT SOLUTION PLC"
+  },
+  {
+    "title": "FULL STACK PROGRAMMER",
+    "description": "Description: - Mobile application development is a PLUS - TypeScript /Angular, Web API, C# programming experience – a PLUS - Experience implementing front-end and back-end JavaScript applications – a PLUS - Motivated to be a programmer Description: - Mobile application development is a PLUS - TypeScript /Angular, Web API, C# programming experience – a PLUS - Experience implementing front-end and back-end JavaScript applications – a PLUS - Motivated to be a programmer",
+    "skillrequirements": "Software design and Development",
+    "jobType": "Onsite - Full Time",
+    "experienceLevel": "ENTRY Experience Level",
+    "deadline": "Deadline: May 17, 2024",
+    "location": "Addis Ababa, Ethiopia",
+    "sector": "Software design and Development",
+    "company": "XOKA IT SOLUTION PLC"
+  },
+  {
+    "title": "Senior software developer",
+    "description": "Company: B.E.L.S (okapi talent) We are seeking a highly skilled and experienced Senior Software Developer to join our dynamic team. The ideal candidate will have over 5 years of experience in software development, with a strong proficiency in the following tech stack: Tailwind CSS, Next.js, and Prisma. Responsibilities: - Design and develop high- uality software solutions using Tailwind CSS, Next.js, and Prisma - Collaborate with cross-functional teams to define, design, and ship new features - Conduct code reviews and provide constructive feedback to team members - Troubleshoot and debug complex issues to ensure smooth operation of applications - Stay current with industry trends and best practices in software development Qualifications: - Bachelor's degree in Computer Science or related field - Over 5 years of experience in software development - Proficiency in Tailwind CSS, Next.js, and Prisma - Strong problem-solving skills and attention to detail - Excellent communication and teamwork skills - Ability to work independently and meet deadlines If you are a talented Senior Software Developer with expertise in Tailwind CSS, Next.js, and Prisma, we would love to hear from you. Join our team and help us build innovative software solutions that make a difference. Apply now! ...more",
+    "skillrequirements": "Software design and Development",
+    "jobType": "Remote - Contractual",
+    "experienceLevel": "SENIOR Experience Level",
+    "deadline": "Deadline: May 10, 2024",
+    "location": "Addis Ababa, Ethiopia",
+    "sector": "Software design and Development",
+    "company": "Private Client"
+  },
+  {
+    "title": "Front-End Mobile and Web Developer",
+    "description": "Welcome to Aquila ICT Solution, a leading software company based in Ethiopia. With a strong presence in the industry for the past 6 years, we have established ourselves as a trusted provider of innovative software solutions. Thank you for introducing Aquila ICT Solution and the frontend developer role you're seeking to fill. As an experienced and reative frontend developer, you will play a vital role in developing and implementing user interface components, concepts, and workflows using technologies like Next.js and Hooks. Duties and Responsibilities: - Creating and deploying end user features for websites, web applications, or mobile applications. - Changing design mockups or prototypes into responsive and interactive web interfaces. - Creating clean, efficient, and maintainable HTML, CSS, and JavaScript code. - Working with UX/UI designers, backend developers, and stakeholders to ensure seamless integration of frontend and backend components. - Creating web pages for maximum speed and scalability. - Conducting cross-browser and cross-device testing to ensure consistent user experience. - Troubleshooting and debugging frontend issues and giving solutions to technical problems. - Keeping up-to-date with emerging frontend technologies, trends, and best practices. - Participating in code reviews and providing constructive feedback to improve code quality. - Assisting in the documentation of frontend development processes and standards. Qualifications and Skills: - Bachelor's degree in Software Engineering, Computer Science, or related field. - 2 years of experience as a frontend developer or similar role. - Excellent experience in Web development and Mobile Development. - Having experience with this Frontend frameworks - React - NextJS - Flutter - Understanding of web standards, responsive design, and cross-browser compatibility. - Experience with frontend build tools and package managers like Webpack, Vite, or NPM. - Knowledge of version control systems, such as Git, and collaborative development workflows. - Knowing UI/UX principles and a keen eye for design details. - Understanding of performance optimization techniques and tools to improve frontend speed and efficiency. - Ability to work with design software like Adobe Photoshop or Sketch to extract assets and implement designs. - Excellent problem-solving skills and the ability to debug frontend issues effectively. - Strong communication and collaboration skills to work within a team and effectively communicate with stakeholders. - Able to work on ready made projects and projects from scratch ...more",
+    "skillrequirements": "Software design and Development",
+    "jobType": "Onsite - Full Time",
+    "experienceLevel": "EXPERT Experience Level",
+    "deadline": "Deadline: May 10, 2024",
+    "location": "Addis Ababa, Ethiopia",
+    "sector": "Software design and Development",
+    "company": "Aquila ICT Solution"
+  },
+  {
+    "title": "Mobile App and Website Developer",
+    "description": "About Us: TEKA TECH SOLUTION pioneers innovation in mobile app and website development, fostering a dynamic work culture that thrives on collaboration and change. Responsibilities: Develop front-end and back-end of web and mobile applications. Collaborate with teams to translate project outlines into efficient code. Ensure scalability, performanc , and security of applications. Stay updated with tech advancements to drive progress. Requirements: Proven experience as a Full Stack Developer. Proficiency in HTML, CSS, JavaScript, React, Angular, or Vue. Expertise in Node.js, Python, or Java. Familiarity with MySQL, MongoDB, and Flutter. Strong problem-solving and communication skills. Qualifications: Bachelor’s degree in Computer Science or equivalent. ...more",
+    "skillrequirements": "Software design and Development",
+    "jobType": "Onsite - Full Time",
+    "experienceLevel": "SENIOR Experience Level",
+    "deadline": "Deadline: May 15, 2024",
+    "location": "Addis Ababa, Ethiopia",
+    "sector": "Software design and Development",
+    "company": "TEKA TECH SOLUTION"
+  },
+  {
+    "title": "iOS Mobile Developer (Swift, Objective-C, React Native, or Flutter)",
+    "description": "Do you have a passion for building innovative iOS apps? Because we're looking for a talented and motivated iOS developer to join our growing team! In this role, you'll be responsible for designing, developing, and deploying high-quality mobile applications for the Apple App Store. -We're open to both experienced developers with a background in Sw ft or Objective-C and those with experience in cross-platform frameworks like React Native or Flutter, as long as you have a strong focus on iOS development and the App Store submission process. Here's what we're looking for: -Minimum 4 years of experience in mobile development, preferably with a focus on iOS - Proficiency in Swift, Objective-C, React Native (targeting iOS), or Flutter (targeting iOS) * Solid understanding of iOS architecture, design patterns, and best practices * Experience with the iOS SDK and Apple development tools * Experience with the App Store submission process * A strong portfolio showcasing previous projects * The ability to work effectively under tight deadlines * A passion for learning and staying up-to-date with the latest trends in mobile development * Possession of a Mac computer and Apple devices for thorough testing Education background is not a requirement, but a strong portfolio and demonstrable skills are essential. What we Offer: * Competitive starting salary of 20,000 ETB * Opportunity to work on challenging and rewarding projects * Collaborative and supportive work environment * A chance to make a real impact with your work We believe in giving everyone a chance to shine! That's why our application process includes a one-week evaluation period. Most applicants will be invited to complete a simple development task during this week. Based on the results, we will select the candidates that performed well to join our team permanently. Think you have what it takes? We encourage you to submit your CV! Let's build something amazing together. ...more",
+    "skillrequirements": "Software design and Development",
+    "jobType": "Onsite - Full Time",
+    "experienceLevel": "INTERMEDIATE Experience Level",
+    "deadline": "Deadline: May 14, 2024",
+    "location": "Addis Ababa, Ethiopia",
+    "sector": "Software design and Development",
+    "company": "KMI"
+  },
+  {
+    "title": "skilled and experienced technical writer",
+    "description": "Job Description: We are seeking a highly skilled and detail-oriented Technical Writer to join our team. As a Technical Writer, you will play a crucial role in creating and maintaining clear and concise technical documentation for our products and services. The ideal candidate will have excellent writing skills, a strong technical background, and th ability to translate complex information into user-friendly content. Responsibilities: 1. Create and maintain technical documentation, including user manuals, installation guides, API documentation, release notes, and troubleshooting guides. 2. Collaborate with subject matter experts, developers, and product managers to gather information and understand product features and functionality. 3. Research, organize, and interpret technical information to ensure accuracy and completeness of documentation. 4. Write clear, concise, and user-friendly content that effectively communicates complex technical concepts to both technical and non-technical audiences. 5. Develop and maintain document templates, style guides, and documentation standards to ensure consistency and adherence to best practices. ...more",
+    "skillrequirements": "Software design and Development",
+    "jobType": "Onsite - Full Time",
+    "experienceLevel": "SENIOR Experience Level",
+    "deadline": "Deadline: May 14, 2024",
+    "location": "Addis Ababa, Ethiopia",
+    "sector": "Software design and Development",
+    "company": "Daftech Computer Engineering"
+  },
+  {
+    "title": "Full-Stack Developer",
+    "description": "Design and develop user interfaces using HTML, CSS, and JavaScript (including frameworks like React, Angular, or Vue.js). Design and develop Mobile, Desktop and Web app. Ensure responsiveness and user-friendliness across all devices (desktop, tablet, mobile). Implement accessibility best practices for an inclusive user experience. Design, develop, and implement back-end functionalities using programming languages like Python, Java, Node.js, or similar. Build and manage databases (e.g., MySQL, PostgreSQL, MongoDB) to store and manipulate application data. Develop and implement secure and scalable APIs. Experience with cloud platforms (AWS, GCP, Azure) is a plus. Participate in infrastructure provisioning and deployment using DevOps tools and methodologies. Collaborate effectively with designers, front-end developers, back-end developers, and other team members. Participate in code reviews and knowledge sharing within the development team. Write clean, well-documented, and maintainable code. Stay up-to-date with the latest full-stack development trends and technologies. Troubleshoot and debug complex issues across the entire application stack. ...more",
+    "skillrequirements": "Software design and Development",
+    "jobType": "Onsite - Full Time",
+    "experienceLevel": "INTERMEDIATE Experience Level",
+    "deadline": "Deadline: May 14, 2024",
+    "location": "Addis Ababa, Ethiopia",
+    "sector": "Software design and Development",
     "company": "Private Client"
   },
   {
@@ -22,58 +154,14 @@
     "company": "Private Client"
   },
   {
-    "title": "INTERNSHIP ADMINISTRATIVE ASSISTANT",
-    "description": "Join our innovative metal design factory as an internship Administrative Assistant. This role will assist the Director of the company in various tasks related to marketing, finances, sales, human resources, information technology, design, engineering, manufacturing, inventory, purchasing, and reporting. Gain valuable experience in a dynamic meta design factory environment. If you're eager to learn and contribute to multiple facets of our operations, apply now! ...more",
-    "skillrequirements": "Project management and administration",
-    "jobType": "Onsite - Unpaid Intern",
-    "experienceLevel": "EXPERT Experience Level",
-    "deadline": "Deadline: May 11, 2024",
-    "location": "Addis Ababa, Ethiopia",
-    "sector": "Project management and administration",
-    "company": "Private Client"
-  },
-  {
-    "title": "INTERNSHIP GRAPHICS DESIGNER",
-    "description": "Join our innovative metal design factory as internship Graphic Designer to play a pivotal role in visually communicating the essence of the company's creations. Responsibilities may include: 1. Visual Branding: Developing and maintaining a cohesive visual identity for the company across various platforms. 2. Marketing Materials: Designing brochur s, catalogs, and promotional materials to showcase metal designs for architecture, interior design, product design, signage, electromechanical, and artwork. 3. Digital Presence: Crafting engaging visuals for the company's website, social media, and online marketing campaigns. 4. Product Visualization: Creating visual representations of metal objects, providing clients and stakeholders with a preview of the final designs. 5. Collaboration: Working closely with the marketing and sales teams to align graphic design with promotional strategies and client expectations. 6. Artistic Direction: Contributing to the artistic direction of projects, ensuring designs align with the company's philosophy and standards. 7. Presentation Graphics: Developing visually compelling presentations for client meetings, showcasing the diversity and quality of metal designs. 8. Print Materials: Designing print materials such as packaging, labels, and exhibition materials. A skilled Graphic Designer enhances the overall aesthetic appeal of the metal designs, contributing to the success of marketing efforts and the company's brand image. ...more",
-    "skillrequirements": "Marketing and Advertisement",
-    "jobType": "Onsite - Unpaid Intern",
-    "experienceLevel": "EXPERT Experience Level",
-    "deadline": "Deadline: May 11, 2024",
-    "location": "Addis Ababa, Ethiopia",
-    "sector": "Marketing and Advertisement",
-    "company": "Private Client"
-  },
-  {
-    "title": "Internship Opportunity: MERN Stack Developer with Frontend Specialization",
-    "description": "We are seeking a motivated and enthusiastic intern to join our team as a MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer with a focus on frontend development. This internship offers a unique opportunity to gain hands-on experience in a fast-paced environment, working on cutting-edge projects that impact our industry. Responsibilities Collaborate with our development team to design, develop, and maintain web applications using the MERN stack. Implement responsive and visually appealing user interfaces using HTML, CSS, and JavaScript frameworks. Participate in code reviews, testing, and debugging to ensure high-quality software delivery. Stay up-to-date with emerging technologies and industry trends to continuously improve our products. Requirements: Proficiency in JavaScript, HTML, and CSS. Familiarity with the MERN stack and its components (MongoDB, Express.js, React.js, Node.js). Strong understanding of frontend development principles and best practices. Ability to work independently and as part of a collaborative team. Excellent problem-solving and communication skills. Prior experience or projects showcasing frontend development skills is a plus. Benefits: Opportunity to work on challenging projects and gain real-world experience. Mentorship from experienced professionals in the field. Flexible schedule and possibility for remote work. Networking opportunities with industry experts and fellow interns. Potential for future employment opportunities based on performance. ...more",
+    "title": "Nuxt/Vue Developer",
+    "description": "We are looking for a dedicated Nuxt/Vue Developer to join our forward-thinking software development team. In this role, you will be responsible for building and maintaining web applications using Vue.js and the Nuxt.js framework. The ideal candidate will have a strong understanding of modern JavaScript frameworks and be passionate about crafting us r-centric solutions. Responsibilities: • Develop and maintain web applications using Vue.js and Nuxt.js. • Build modular, testable, and reusable Vue.js components. • Optimize applications for maximum speed and scalability. • Collaborate with designers and backend developers to improve usability and meet technical requirements. • Implement automated testing integrated into development and maintenance workflows. • Stay up-to-date with all recent developments in the JavaScript and Vue.js space. • Keep an eye on security updates and issues found with Vue.js and all project dependencies. • Propose any upgrades and updates necessary for keeping up with modern security and development best practices. Skills: • Proficient understanding of the Vue.js framework and its core principles such as components, reactivity, and the virtual DOM. • Familiarity with the Nuxt.js framework and its benefits in universal and single-page applications. • Experience with state management patterns and solutions (e.g., Vuex, Redux). • Strong knowledge of HTML, CSS, and modern JavaScript (ES6+). • Understanding of server-side rendering and its benefits and use cases. • Knowledge of functional programming and object-oriented programming paradigms. • Ability to write efficient, secure, well-documented, and clean JavaScript code. • Proficiency with modern development tools (e.g., Git, Node.js, NPM/Yarn). Requirements: • Bachelor’s degree in computer science, Information Technology, or a related field. • Proven experience as a Vue.js developer. • Experience with consuming and designing RESTful APIs. • Familiarity with automated JavaScript testing, specifically testing frameworks such as Jest or Mocha. • Experience with continuous integration and continuous deployment (CI/CD) environments. • Strong attention to detail and commitment to delivering high-quality user experiences. What We Offer: • Competitive salary and benefits package. • Opportunities for personal and professional growth. • Flexible working hours, including options for remote work. • A dynamic and creative environment. • Regular team events and a collaborative atmosphere. How to Apply: To apply for this role, please send your resume, a link to your GitHub or portfolio showcasing relevant projects, and a brief cover letter to info@zareinnovations.com . Be sure to include \"Nuxt/Vue Developer\" in the subject line of your email. ...more",
     "skillrequirements": "Software design and Development",
-    "jobType": "Onsite - Paid Intern",
-    "experienceLevel": "INTERMEDIATE Experience Level",
-    "deadline": "Deadline: May 09, 2024",
-    "location": "Addis Ababa, Ethiopia",
+    "jobType": "Remote - Full Time",
+    "experienceLevel": "SENIOR Experience Level",
+    "deadline": "Deadline: May 13, 2024",
+    "location": "From Anywhere/remote",
     "sector": "Software design and Development",
-    "company": "Private Client"
-  },
-  {
-    "title": "Business Development Intern",
-    "description": "Interns that enroll in this program will contribute to challenging projects and be involved in the operations to bring an actual impact to the company and gain real world experience needed to contribute to your learning and growth. Responsibilities: ● Provide additional content that will be benefiting for projects and operations ● Assist in diffe ent tasks in their assigned department or project ● Documentation and follow-up on planned activities Requirement: ● Good attitude and gusto to learning new things ● Working knowledge of Google tools ● Enrolled in universities in any social science fields ● Ability to research and provide input for the team on assignments ● Working knowledge of business writing and content development Interested applicants please apply using this link: https://career.icogacc.com/internships/c579274e-6c5d-4be1-8ec9-799b585f200d ...more",
-    "skillrequirements": "Business and Commerce",
-    "jobType": "Onsite - Paid Intern",
-    "experienceLevel": "ENTRY Experience Level",
-    "deadline": "Deadline: May 23, 2024",
-    "location": "Addis Ababa, Ethiopia",
-    "sector": "Business and Commerce",
-    "company": "iCog Anyone Can Code"
-  },
-  {
-    "title": "Junior Architects & Interior Designer",
-    "description": "Qualification: BSc degree in Architecture • Minimum Years of Experience: 0 year ️Deadline: April 29/2024 ▪️How to Apply: • Interested applicants who fulfill the above criteria, are required to send an application letter with scan CV and credentials within 7 working days of this announcement Qualification: BSc degree in Architecture • Minimum Years of Experience: 0 year ️Deadline: April 29/2024 ▪️How to Apply: • Interested applicants who fulfill the above criteria, are required to send an application letter with scan CV and credentials within 7 working days of this announcement",
-    "skillrequirements": "Architecture and urban planning",
-    "jobType": "Onsite - Paid Intern",
-    "experienceLevel": "JUNIOR Experience Level",
-    "deadline": "Deadline: May 06, 2024",
-    "location": "Addis Ababa, Ethiopia",
-    "sector": "Architecture and urban planning",
-    "company": "Private Client"
+    "company": "Zare Innovations, LLC"
   }
 ]

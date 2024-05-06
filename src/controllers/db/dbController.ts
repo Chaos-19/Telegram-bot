@@ -14,6 +14,8 @@ type Job = {
 }
 
 export const insertData = async (data: Job[]) => {
+    console.log(data);
+
     try {
         data.forEach(async (job) => {
 
@@ -25,7 +27,7 @@ export const insertData = async (data: Job[]) => {
             console.log(foundJob);
 
 
-            if (foundJob?.length == 0) {
+            if (!(data.length > 0)) {
                 const { error } = await supabase
                     .from('job-tg-bot')
                     .insert([{
