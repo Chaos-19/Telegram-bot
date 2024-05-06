@@ -12,7 +12,18 @@ puppeteer.use(stealthPlugin());
 
 export const scrape = async (url: string, filterOption: string[], howManyJobs: number) => {
 
-    const browser = await puppeteer.launch({ headless: false });
+    const browser = await puppeteer.launch({
+        args: [
+            "--disable-setuid-sandbox",
+            "--no-sandbox",
+            "--single-process",
+            "--no-zygote",
+        ],
+        executablePath:
+            process.env.NODE_ENV === "production"
+                ? process.env.PUPPETEER_EXECUTABLE_PATH
+                : puppeteer.executablePath(),
+    });
     const page = await browser.newPage();
     //await page.setDefaultNavigationTimeout(1000);
     await page.goto(url, { timeout: 0 });
