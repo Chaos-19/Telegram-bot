@@ -1,5 +1,4 @@
 const path = require("path");
-
 const cheerio = require("cheerio"); // Library for parsing HTML
 const fs = require("fs");
 const puppeteer = require("puppeteer-extra");
@@ -44,8 +43,6 @@ export const scrape = async (url: string, filterOption: string[], howManyJobs: n
         //await el.click();
     });
 
-
-
     //await new Promise((resolve) => setTimeout(resolve, 1000));
 
     filterOption.forEach(async (option) => {
@@ -59,7 +56,7 @@ export const scrape = async (url: string, filterOption: string[], howManyJobs: n
     await new Promise((resolve) => setTimeout(resolve, 2000));
 
 
-    //   await new Promise((resolve) => setTimeout(resolve, 2000));
+    //await new Promise((resolve) => setTimeout(resolve, 2000));
 
     //click filter button
     const filterBtn = await page.waitForSelector(

@@ -54,21 +54,18 @@ export type Database = {
           id: number
           notify_job_list: string[] | null
           telegram_id: number | null
-          user_name: string | null
         }
         Insert: {
           first_name?: string | null
           id?: number
           notify_job_list?: string[] | null
           telegram_id?: number | null
-          user_name?: string | null
         }
         Update: {
           first_name?: string | null
           id?: number
           notify_job_list?: string[] | null
           telegram_id?: number | null
-          user_name?: string | null
         }
         Relationships: []
       }
