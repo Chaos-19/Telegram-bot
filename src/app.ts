@@ -43,7 +43,7 @@ app.get("/", (req: Request, res: Response) => {
   `);
 });
 
-
+let i = 0;
 
 // Schedule the cron job (adjust the cron expression to your desired frequency)
 cron.schedule('*/5 * * * *', async () => { // Every 15 minutes
@@ -55,10 +55,11 @@ cron.schedule('*/5 * * * *', async () => { // Every 15 minutes
       .from("scraperTitleList")
       .select()
 
-    scraperTitleList?.forEach(async (job) => {
-      const data = await scrape('https://afriworket.com/job', [job.inputValu as string]);
-      await insertData(data);
-    })
+    const data = await scrape('https://afriworket.com/job', [job[i].inputValu as string]);
+    await insertData(data);
+    if (i === scraperTitleList?.length as number - 1) {
+      i = 0
+    } else { i++ }
 
   } catch (error) {
     new Error();
