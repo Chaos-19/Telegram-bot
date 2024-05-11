@@ -25,6 +25,7 @@ interface MyContext extends Context {
 }
 
 const bot = new Telegraf<MyContext>(process.env.BOT_TOKEN as string);
+(async () => app.use(await bot.createWebhook({ domain: process.env.WEBHOOK_DOMAIN as string })))()
 bot.launch();
 bot.use(Telegraf.log());
 bot.use(session({ defaultSession: () => ({ menuNew: [...menu], selectedMenu: [], jobType: [...jobType] }) }));
@@ -56,7 +57,7 @@ cron.schedule('*/5 * * * *', async () => { // Every 15 minutes
 
     scraperTitleList?.forEach(async (job) => {
       const data = await scrape('https://afriworket.com/job', [job.inputValu as string]);
-      insertData(data);
+      await insertData(data);
     })
 
   } catch (error) {
