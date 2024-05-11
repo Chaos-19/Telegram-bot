@@ -47,22 +47,26 @@ let i = 0;
 
 // Schedule the cron job (adjust the cron expression to your desired frequency)
 cron.schedule('*/5 * * * *', async () => { // Every 15 minutes
-  console.log("Cron job started");
-
   try {
+    console.log("Cron job started");
 
     const { data: scraperTitleList, error } = await supabase
       .from("scraperTitleList")
       .select()
 
-    const data = await scrape('https://afriworket.com/job', [job[i].inputValu as string]);
+    const scrap = scraperTitleList?.[i]?.inputValu || "Software design and Development";
+
+    console.log("scrap", scrap);
+
+
+    const data = await scrape('https://afriworket.com/job', [scrap]);
     await insertData(data);
     if (i === scraperTitleList?.length as number - 1) {
       i = 0
     } else { i++ }
 
   } catch (error) {
-    new Error();
+    console.log(error);
   }
 });
 
