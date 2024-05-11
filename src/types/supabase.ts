@@ -48,22 +48,40 @@ export type Database = {
         }
         Relationships: []
       }
+      scraperTitleList: {
+        Row: {
+          id: number
+          inputValu: string | null
+        }
+        Insert: {
+          id?: number
+          inputValu?: string | null
+        }
+        Update: {
+          id?: number
+          inputValu?: string | null
+        }
+        Relationships: []
+      }
       users: {
         Row: {
           first_name: string | null
           id: number
+          job_type: string[] | null
           notify_job_list: string[] | null
           telegram_id: number | null
         }
         Insert: {
           first_name?: string | null
           id?: number
+          job_type?: string[] | null
           notify_job_list?: string[] | null
           telegram_id?: number | null
         }
         Update: {
           first_name?: string | null
           id?: number
+          job_type?: string[] | null
           notify_job_list?: string[] | null
           telegram_id?: number | null
         }

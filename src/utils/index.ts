@@ -298,3 +298,26 @@ export const mainMenu = [
         callback_data: "help"
     }
 ]
+
+export const jobType = [
+    {
+        text: "FULL_TIME",
+        callback_data: "type-1",
+        isSelected:false
+    },
+    {
+        text: "PART_TIME",
+        callback_data: "type-2",
+        isSelected:false
+    },
+    {
+        text: "PAID INTERN",
+        callback_data: "type-3",
+        isSelected:false
+    },
+    {
+        text: "UNPAID_INTERN",
+        callback_data: "type-4",
+        isSelected:false
+    }
+]

@@ -9,9 +9,9 @@ require("dotenv").config();
 const stealthPlugin = require("puppeteer-extra-plugin-stealth");
 puppeteer.use(stealthPlugin());
 
-export const scrape = async (url: string, filterOption: string[], howManyJobs: number) => {
+export const scrape = async (url: string, filterOption: string[]) => {
 
-    console.log(url, filterOption, howManyJobs);
+    console.log(url, filterOption);
 
 
     const browser = await puppeteer.launch({
